@@ -1,0 +1,16 @@
+C:\CodingEnCasa\SpikerDemo\obj\Debug\net5.0\SpikerDemo.csprojAssemblyReference.cache
+C:\CodingEnCasa\SpikerDemo\obj\Debug\net5.0\SpikerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingEnCasa\SpikerDemo\obj\Debug\net5.0\SpikerDemo.AssemblyInfoInputs.cache
+C:\CodingEnCasa\SpikerDemo\obj\Debug\net5.0\SpikerDemo.AssemblyInfo.cs
+C:\CodingEnCasa\SpikerDemo\obj\Debug\net5.0\SpikerDemo.csproj.CoreCompileInputs.cache
+C:\CodingEnCasa\SpikerDemo\bin\Debug\net5.0\SpikerDemo.exe
+C:\CodingEnCasa\SpikerDemo\bin\Debug\net5.0\SpikerDemo.deps.json
+C:\CodingEnCasa\SpikerDemo\bin\Debug\net5.0\SpikerDemo.runtimeconfig.json
+C:\CodingEnCasa\SpikerDemo\bin\Debug\net5.0\SpikerDemo.runtimeconfig.dev.json
+C:\CodingEnCasa\SpikerDemo\bin\Debug\net5.0\SpikerDemo.dll
+C:\CodingEnCasa\SpikerDemo\bin\Debug\net5.0\ref\SpikerDemo.dll
+C:\CodingEnCasa\SpikerDemo\bin\Debug\net5.0\SpikerDemo.pdb
+C:\CodingEnCasa\SpikerDemo\obj\Debug\net5.0\SpikerDemo.dll
+C:\CodingEnCasa\SpikerDemo\obj\Debug\net5.0\ref\SpikerDemo.dll
+C:\CodingEnCasa\SpikerDemo\obj\Debug\net5.0\SpikerDemo.pdb
+C:\CodingEnCasa\SpikerDemo\obj\Debug\net5.0\SpikerDemo.genruntimeconfig.cache
